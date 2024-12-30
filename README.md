@@ -5,20 +5,17 @@
 - `Any`
 - `All`
 
----
 
 ## **Projection**
 - `Select`
 - `SelectMany`
 
----
 
 ## **Sorting**
 - `OrderBy`
 - `OrderByDescending`
 - `ThenBy`
 
----
 
 ## **Aggregation**
 - `Count`
@@ -27,7 +24,6 @@
 - `Max`
 - `Min`
 
----
 
 ## **Set Operations**
 - `Distinct`
@@ -35,7 +31,6 @@
 - `Intersect`
 - `Except`
 
----
 
 ## **Partitioning**
 - `Skip`
@@ -43,20 +38,17 @@
 - `Take`
 - `TakeWhile`
 
----
 
 ## **Joining**
 - `Join`
 - `GroupJoin`
 
----
 
 ## **Element Operations**
 - `First`
 - `Last`
 - `SingleOrDefault`
 
----
 
 ## **Miscellaneous**
 - `DefaultIfEmpty`
